@@ -1,0 +1,26 @@
+{
+  "name": "md-button-new",
+  "version": "1.0.0",
+  "description": "Material desigine button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant2016/md-button.git"
+  },
+  "keywords": [
+    "button",
+    "react button",
+    "react native button",
+    "md-button-new",
+    "npm md-button-new"
+  ],
+  "author": "Prashant Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant2016/md-button/issues"
+  },
+  "homepage": "https://github.com/prashant2016/md-button#readme"
+}
